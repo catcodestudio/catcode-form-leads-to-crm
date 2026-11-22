@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Form Leads to CRM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: catcode-form-leads-to-crm\n"
+
+#: includes/Targets/KeyCrm.php
+msgid "A card in a pipeline"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "A number typed as 050 123 45 67 gets this code in front. Empty: numbers go as typed."
+msgstr ""
+
+#: includes/Targets/KeyCrm.php includes/Targets/SalesDrive.php
+msgid "API key"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php includes/Targets/NetHunt.php
+msgid "API token"
+msgstr ""
+
+#: includes/Targets/SalesDrive.php
+msgid "Account address"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Ad source"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Add at least one chat and save."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "All"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Also send every lead to Telegram"
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "An order"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "Bot token"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "CRM"
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "CatCode"
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "CatCode Form Leads to CRM"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "Chats"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Check the connection"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Clear the log"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php includes/Targets/NetHunt.php includes/Targets/SalesDrive.php
+msgid "Connected."
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "Connected. Sources: %s"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "Connected: @%s"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Connections"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Country code for local numbers"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "Create a bot with @BotFather and paste its token."
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "Create in KeyCRM"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Delete the settings and the log when the plugin is deleted"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Delivered"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Details"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "E-mail"
+msgstr ""
+
+#: includes/Core/Installer.php
+msgid "Every 5 minutes"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Every form is sent unless you switch it off here. A new form is on by default."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Failed"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Find chats"
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "Folder ID"
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "For cards only. Empty: KeyCRM uses your first pipeline."
+msgstr ""
+
+#: includes/Targets/SalesDrive.php
+msgid "For example yourcompany.salesdrive.me"
+msgstr ""
+
+#: includes/Admin/Page.php includes/Lead/Lead.php
+msgid "Form"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Form Leads"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Form Leads to CRM"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Form Leads to CRM: failed deliveries during the last 7 days: %d."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Form Leads to KeyCRM is active. It keeps sending Contact Form 7 to KeyCRM, so this plugin does not send those leads there. Keep one of the two."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Forms"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "Funnel ID"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "Funnels: %s"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "General"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "In KeepinCRM: Settings, Company profile, API tab. KeepinCRM opens its API on paid plans only."
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "In KeyCRM: Settings, General, API key."
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "In NetHunt: Settings, API & MCP, Create token."
+msgstr ""
+
+#: includes/Targets/SalesDrive.php
+msgid "In SalesDrive: Settings, General settings and integrations, Other services, API."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "In the queue"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Keep the log, days"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Lead"
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Lead from the site"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Log"
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "NetHunt did not return the folder."
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "NetHunt folder \"%s\" is ready."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Next attempt: %s"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "No chats yet. Write to the bot or add it to a group, then try again."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "No forms found yet."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "No supported form plugin is active on this site. Install and activate Contact Form 7."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "None, Telegram only"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Nothing here yet. Leads appear after a form is sent."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "On removal"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "One chat ID per line. A topic of a group: chat ID, a colon, topic ID. Write to the bot or add it to a group, save, then press \"Find chats\"."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Open the log"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "Optional. \"Check the connection\" lists your funnels and sources with their IDs."
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "Optional. \"Check the connection\" lists your sources and pipelines with their IDs. Empty: the first source in your list is used."
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "Optional. Empty: a folder for the leads is created when you save. The fields it lacks are added either way."
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Page"
+msgstr ""
+
+#: includes/Targets/Telegram.php
+msgid "Phone"
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "Pipeline ID"
+msgstr ""
+
+#: includes/Targets/KeyCrm.php
+msgid "Pipelines: %s"
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Product"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Remember utm tags, gclid and fbclid of the visit in a cookie for 90 days and add them to the lead"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Remove"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Saved."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Saved. Type a new one to replace it."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Send"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Send a test lead"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Sending"
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "Sends leads from your site forms to KeyCRM, SalesDrive, NetHunt, KeepinCRM and Telegram. No WooCommerce needed. Every lead is logged and retried if the CRM does not answer."
+msgstr ""
+
+#: includes/Lead/Capture.php
+msgid "Sent by Form Leads to KeyCRM, which is active on this site. Keep one of the two plugins."
+msgstr ""
+
+#: includes/Lead/Capture.php
+msgid "Sent by Telegram Order Notifications, which is active on this site."
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Sent from the plugin settings to check the connection."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Sent. Check the chat."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Settings"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Show everything"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Skipped"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php includes/Targets/KeyCrm.php
+msgid "Source ID"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "Sources: %s"
+msgstr ""
+
+#: includes/Targets/KeepinCrm.php
+msgid "Stage ID"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Status"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Telegram"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Telegram Order Notifications is active and sends form leads. The Telegram block below stays off for leads, so that nobody gets the same message twice."
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Test lead"
+msgstr ""
+
+#: includes/Lead/Lead.php
+msgid "Test lead, please delete"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "The buttons use the saved settings: save first."
+msgstr ""
+
+#: includes/Targets/Target.php
+msgid "The connection is not set up."
+msgstr ""
+
+#: includes/Targets/Target.php
+msgid "The key is not accepted."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "The log holds the names and contacts of your visitors. Older rows are deleted."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "The log is empty now. Leads still waiting for delivery stay."
+msgstr ""
+
+#: includes/Lead/Queue.php
+msgid "The server stopped during every attempt."
+msgstr ""
+
+#: includes/Targets/Target.php
+msgid "The service did not answer in time."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "The site did not answer. Try again."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "The test lead is in the CRM, ID %s. Please delete it there."
+msgstr ""
+
+#: includes/Targets/NetHunt.php
+msgid "These fields could not be added and will go without: %s. Check that the token may edit the folder."
+msgstr ""
+
+#: includes/Lead/Queue.php
+msgid "This connection no longer exists in the settings."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Time"
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "Two copies of Form Leads to CRM are active. Keep one of them: deactivate the other copy on the Plugins screen."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Unknown action."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Unknown connection."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Where"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Where leads go"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Will retry"
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "Working..."
+msgstr ""
+
+#: includes/Admin/Page.php
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "https://catcode.com.ua"
+msgstr ""
+
+#: catcode-form-leads-to-crm.php
+msgid "https://catcode.com.ua/"
+msgstr ""

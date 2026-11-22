@@ -1,0 +1,230 @@
+.ccflc .nav-tab-wrapper {
+	margin-bottom: 4px;
+}
+
+.ccflc-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 8px;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+	box-sizing: border-box;
+	margin: 16px 0;
+	max-width: 900px;
+	padding: 0 24px 20px;
+}
+
+.ccflc-card[hidden] {
+	display: none;
+}
+
+.ccflc-card h2 {
+	border-bottom: 1px solid #f0f0f1;
+	font-size: 15px;
+	margin: 0 -24px 4px;
+	padding: 16px 24px 14px;
+}
+
+.ccflc-card .form-table {
+	margin-top: 0;
+}
+
+.ccflc-card .form-table th {
+	padding-right: 16px;
+	width: 190px;
+}
+
+.ccflc-card .form-table td .description {
+	color: #646970;
+}
+
+.ccflc-short {
+	width: 96px;
+}
+
+.ccflc-card select,
+.ccflc-card input.regular-text {
+	min-height: 36px;
+}
+
+.ccflc-remove {
+	margin-left: 8px;
+	white-space: nowrap;
+}
+
+.ccflc-actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+}
+
+.ccflc-result {
+	font-weight: 600;
+	margin: 8px 0 0;
+	overflow-wrap: anywhere;
+}
+
+.ccflc-result.is-ok {
+	color: #007017;
+}
+
+.ccflc-result.is-error {
+	color: #b32d2e;
+}
+
+.ccflc .notice.inline {
+	margin: 16px 0 0;
+}
+
+.ccflc-filter {
+	margin-bottom: 8px;
+}
+
+.ccflc-toolbar {
+	clear: both;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	justify-content: flex-end;
+	margin: 8px 0;
+}
+
+.ccflc-table {
+	border-radius: 8px;
+	margin-top: 8px;
+	max-width: 1100px;
+	overflow: hidden;
+}
+
+.ccflc-table thead th {
+	font-weight: 600;
+}
+
+.ccflc-table td {
+	overflow-wrap: break-word;
+}
+
+.ccflc-table form {
+	display: inline-block;
+	margin-top: 4px;
+}
+
+.ccflc-lead {
+	margin-top: 6px;
+}
+
+.ccflc-status {
+	background: #f0f0f1;
+	border-radius: 4px;
+	display: inline-block;
+	font-weight: 600;
+	padding: 2px 8px;
+	white-space: nowrap;
+}
+
+.ccflc-status-sent {
+	background: #edfaef;
+	color: #007017;
+}
+
+.ccflc-status-failed {
+	background: #fcf0f1;
+	color: #b32d2e;
+}
+
+.ccflc-status-retry,
+.ccflc-status-queued,
+.ccflc-status-sending {
+	background: #fcf9e8;
+	color: #8a5d00;
+}
+
+.ccflc-status-skipped {
+	color: #50575e;
+}
+
+.ccflc-table td {
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
+
+.ccflc-table details summary {
+	color: #2271b1;
+	cursor: pointer;
+	margin-top: 4px;
+}
+
+.ccflc-lead {
+	background: #f6f7f7;
+	border-radius: 6px;
+	color: #3c434a;
+	padding: 8px 10px;
+}
+
+.ccflc-empty {
+	clear: both;
+	padding-top: 12px;
+}
+
+.ccflc-pages a,
+.ccflc-pages strong {
+	display: inline-block;
+	padding: 6px 8px;
+}
+
+
+@media (max-width: 782px) {
+	.ccflc-card {
+		padding: 0 12px 12px;
+	}
+
+	.ccflc-card h2 {
+		margin: 0 -12px 4px;
+		padding: 14px 12px 12px;
+	}
+
+	.ccflc-card .form-table th {
+		width: auto;
+	}
+
+	.ccflc input[type="text"],
+	.ccflc input[type="password"],
+	.ccflc input[type="email"],
+	.ccflc input[type="number"],
+	.ccflc select,
+	.ccflc textarea {
+		font-size: 16px;
+		max-width: 100%;
+	}
+
+	.ccflc-table thead {
+		display: none;
+	}
+
+	.ccflc-table,
+	.ccflc-table tbody,
+	.ccflc-table tr,
+	.ccflc-table td {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+	.ccflc-table tr {
+		border-bottom: 1px solid #dcdcde;
+		padding: 8px 0;
+	}
+
+	.ccflc-table td {
+		padding: 4px 12px;
+	}
+
+	.ccflc-table td::before {
+		color: #50575e;
+		content: attr(data-label) ": ";
+		font-weight: 600;
+	}
+
+	.ccflc-toolbar {
+		justify-content: flex-start;
+	}
+}
